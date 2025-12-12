@@ -43,4 +43,3 @@ Uso de CPU: 15%
 Uso de RAM: 63%
 RAM usada: 5.02 GB
 RAM total: 8.0 GB
-Pressione CTRL + C para sair
